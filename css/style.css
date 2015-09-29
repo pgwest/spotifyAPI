@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  background: black;
+}
+
+body {
+  padding-top: 50px;
+  height: 100%;
+  background-color: black;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  background-color: black;
+}
+
+.menubar {
+  background-color:gray;
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  margin: auto;
+  /* padding-top: 5%; */
+}
+
+#playButton {
+  height: 10%;
+}
+
+#one {
+  background-color: black;
+  height: 120%;
+}
+
+#two {
+  background-color: black;
+  height: 120%;
+}
+
+#two img {
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
+#one img {
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
+#three {
+  background-color: black;
+  height: 120%;
+}
+
+#three img {
+  height: 100%;
+  display: block;
+  margin: auto;
+}
+
+#a {
+  width: 300px;
+  height: 100%;
+}
+
+#header {
+  background-color: black;
+  color: white;
+}
+
+.songTitle {
+  width: 100%;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+  font-size: 60px;
+  color:white;
+}
+/*h1 {
+  color: white;
+}*/
